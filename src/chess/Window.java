@@ -8,7 +8,7 @@ package chess;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-@SuppressWarnings("serial")
+
 public class Window extends JPanel {
 
 
